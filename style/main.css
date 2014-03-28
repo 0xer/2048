@@ -317,28 +317,28 @@ hr {
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
     /*background: #eee4da;*/
-    background-image:url('img/349bc29644dc62dc1a90702a335688d1.jpg');
+    background-image:url('img/a3c1357a8806956f0d3f3019ec675d7d.jpg');
     background-size:cover;
     /* background: #ff0000; */
     font-size: 0px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     /*background: #ede0c8;*/
-    background-image:url('img/a3c1357a8806956f0d3f3019ec675d7d.jpg');
+    background-image:url('img/709e041687e681a9feb8ccca5811f68f.jpg');
     background-size:cover;
     font-size: 0px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     /*color: #f9f6f2;
     background: #f2b179;*/
-    background-image:url('img/709e041687e681a9feb8ccca5811f68f.jpg');
+    background-image:url('img/046638d45a2c64fbd9e43b677f035253.jpg');
     background-size:cover;
     font-size: 0px;
      }
   .tile.tile-16 .tile-inner {
     /*color: #f9f6f2;
     background: #f59563;*/
-    background-image:url('img/046638d45a2c64fbd9e43b677f035253.jpg');
+    background-image:url('img/349bc29644dc62dc1a90702a335688d1.jpg');
     background-size:cover;
     font-size: 0px;
   }
