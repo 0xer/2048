@@ -93,10 +93,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "Rezultat"; }
+  content: "Score"; }
 
 .best-container:after {
-  content: "Najbolji"; }
+  content: "Best"; }
 
 p {
   margin-top: 0;
@@ -316,46 +316,37 @@ hr {
     z-index: 10;
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
-    /*background: #eee4da;*/
-    background-image:url('img/a3c1357a8806956f0d3f3019ec675d7d.jpg');
+    background-image:url('img/2.jpg');
     background-size:cover;
-    /* background: #ff0000; */
     font-size: 0px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    /*background: #ede0c8;*/
-    background-image:url('img/709e041687e681a9feb8ccca5811f68f.jpg');
+    background-image:url('img/4.jpg');
     background-size:cover;
     font-size: 0px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    /*color: #f9f6f2;
-    background: #f2b179;*/
-    background-image:url('img/046638d45a2c64fbd9e43b677f035253.jpg');
+    background-image:url('img/8.jpg');
     background-size:cover;
     font-size: 0px;
      }
   .tile.tile-16 .tile-inner {
-    /*color: #f9f6f2;
-    background: #f59563;*/
-    background-image:url('img/349bc29644dc62dc1a90702a335688d1.jpg');
+    background-image:url('img/16.jpg');
     background-size:cover;
     font-size: 0px;
   }
   .tile.tile-32 .tile-inner {
-    /*color: #f9f6f2;
-    background: #f67c5f; */
-    background-image:url('img/1dfb7ebae0095362b6f2d6c35c3cf1d3.jpg');
+    background-image:url('img/32.jpg');
     background-size:cover;
     font-size: 0px;
   }
   .tile.tile-64 .tile-inner {
-    background-image:url('img/83e814deac8a902859dac99fb0f2cc7e.jpg');
+    background-image:url('img/64.jpg');
     background-size:cover;
     font-size: 0px;
   }
   .tile.tile-128 .tile-inner {
-    background-image:url('img/9138f001b9919c73498126c53efcd0b7.jpg');
+    background-image:url('img/128.jpg');
     background-size:cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 0px; }
@@ -363,7 +354,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 0px; } }
   .tile.tile-256 .tile-inner {
-    background-image:url('img/4f862b8f02ff26a0d8e73a28b03ad14a.jpg');
+    background-image:url('img/256.jpg');
     background-size:cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 0px; }
@@ -371,7 +362,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 0px; } }
   .tile.tile-512 .tile-inner {
-    background-image:url('img/a28b339117c76e57e1a4d3492ae90dbf.jpg');
+    background-image:url('img/512.jpg');
     background-size:cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 0px; }
@@ -379,7 +370,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 0px; } }
   .tile.tile-1024 .tile-inner {
-    background-image:url('img/6d795ea4e7b15fcfa6345cb07cf84f6f.jpg');
+    background-image:url('img/1024.jpg');
     background-size:cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 0px; }
@@ -387,7 +378,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 0px; } }
   .tile.tile-2048 .tile-inner {
-    background-image:url('img/189014_1011168041534_4810_n.jpg');
+    background-image:url('img/2048.jpg');
     background-size:cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 0px; }
@@ -395,7 +386,7 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 0px; } }
   .tile.tile-super .tile-inner {
-    background-image:url('img/189014_1011168041534_4810_n.jpg');
+    background-image:url('img/super.jpg');
     background-size:cover;
     font-size: 0px; }
     @media screen and (max-width: 520px) {
